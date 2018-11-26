@@ -63,4 +63,9 @@ RemoveSpaces	-6/2
 RemoveParens	-6/2
 Match #/#	-3
 Done	-3
+
 The removal of parentheses is essential to the success of the algorithm. Removal of blanks is not essential; however it may make it easier to simplify the pattern matching.
+
+javacUnit3.java java Unit3
+3 * (2-4) /(2)  
+-3
